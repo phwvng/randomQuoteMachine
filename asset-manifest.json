@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/get-skill-quote-machine/static/css/main.112dbfe0.css",
-    "main.js": "/get-skill-quote-machine/static/js/main.2325c5dc.js",
-    "static/js/453.9e9bf647.chunk.js": "/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js",
-    "index.html": "/get-skill-quote-machine/index.html",
-    "main.112dbfe0.css.map": "/get-skill-quote-machine/static/css/main.112dbfe0.css.map",
-    "main.2325c5dc.js.map": "/get-skill-quote-machine/static/js/main.2325c5dc.js.map",
-    "453.9e9bf647.chunk.js.map": "/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js.map"
+    "main.css": "/randomQuoteMachine/get-skill-quote-machine/static/css/main.112dbfe0.css",
+    "main.js": "/randomQuoteMachine/get-skill-quote-machine/static/js/main.480858e6.js",
+    "static/js/453.9e9bf647.chunk.js": "/randomQuoteMachine/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js",
+    "index.html": "/randomQuoteMachine/get-skill-quote-machine/index.html",
+    "main.112dbfe0.css.map": "/randomQuoteMachine/get-skill-quote-machine/static/css/main.112dbfe0.css.map",
+    "main.480858e6.js.map": "/randomQuoteMachine/get-skill-quote-machine/static/js/main.480858e6.js.map",
+    "453.9e9bf647.chunk.js.map": "/randomQuoteMachine/get-skill-quote-machine/static/js/453.9e9bf647.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.112dbfe0.css",
-    "static/js/main.2325c5dc.js"
+    "static/js/main.480858e6.js"
   ]
 }
