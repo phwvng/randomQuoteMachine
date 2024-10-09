@@ -26,10 +26,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <p>"{quote}</p>
-      <p>- {author}</p>
+      <div id="quote-box">
+      <p id="text">"{quote}</p>
+      <p id="author">- {author}</p>
       <button onClick={() => generateRandomQuote()}>New Quote</button>
-
+      <a href={encodeURI(`http://www.twitter.com/intent/tweet?text=${quote} -${author}`)} target='_blank' id="tweet-quote">Tweet Quote</a>
+      </div>
       </header>
     </div>
   );
